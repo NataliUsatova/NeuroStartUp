@@ -1,6 +1,6 @@
 # Hello, world!
 
-[**Список клиентов**](https://github.com/netology-code/git-2-homeworks/blob/main/remote/README.md#список-клиентов)
+# [**Список клиентов**](https://github.com/netology-code/git-2-homeworks/blob/main/remote/README.md#список-клиентов)
 
 ## Мы на столько крутые, что уже успели поработать со следующими компаниями:
 
@@ -9,5 +9,5 @@
 3. Космопорт «Черезтерновый Кзвёздный»
 4. Дизайн-студия имени Слишком Известного Персонажа
    
-Нас можно найти в <google.com.>
+Нас можно найти в <google.com>
 
